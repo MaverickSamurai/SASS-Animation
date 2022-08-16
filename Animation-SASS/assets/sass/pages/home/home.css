@@ -1,0 +1,31 @@
+#nav-area .my-navbar {
+  margin-left: 800px;
+}
+
+#head-card {
+  background-color: whitesmoke;
+  padding-top: 100px;
+}
+#head-card .size-card {
+  background-color: whitesmoke;
+}
+#head-card .size-card p {
+  padding: 52px;
+}
+#head-card .size-card .my-btn {
+  background: orangered;
+}
+
+#cards .heading {
+  padding: 150px;
+}
+#cards .heading .card-back {
+  padding: 20px;
+  display: flex;
+}
+#cards .heading .card-back .mine-card {
+  margin: 50px;
+}
+#cards .heading .card-back .mine-card .mine-btn {
+  background-color: orangered;
+}/*# sourceMappingURL=home.css.map */

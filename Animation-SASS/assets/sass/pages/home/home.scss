@@ -1,0 +1,47 @@
+@import"../../../sass/partials/variables";
+
+
+#nav-area {
+    .my-navbar {
+        margin-left: 800px;
+    }
+}
+
+
+
+#head-card{
+    background-color: whitesmoke;
+   padding-top: 100px;
+   
+    .size-card{
+        background-color: whitesmoke;
+        // background-color: $bg-main-color;
+        
+        p{
+            padding: 52px;
+        }
+        .my-btn{
+            background: orangered;
+        }
+    }
+
+    
+}
+
+#cards {
+    .heading{
+        padding: 150px;
+        .card-back{
+            padding: 20px;
+            display: flex;
+            .mine-card{
+                margin: 50px;
+
+                .mine-btn{
+                    background-color: orangered;
+                }
+            }
+        }
+    }
+    
+}
